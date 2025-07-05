@@ -28,7 +28,7 @@ npx @modelcontextprotocol/inspector node dist/app.js
 ```
 ### 📈 Agent Flow
 
-![Flow Diagram](path/to/your/diagram.png)
+![Flow Diagram](mcp-agent/image/Untitled Diagram.drawio (3).png)
 
 ### 📽️ Live Demo
 
