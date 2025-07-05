@@ -1,0 +1,6 @@
+@modelcontextprotocol/sdk
+dotenv
+pg
+zod
+axios
+cheerio
