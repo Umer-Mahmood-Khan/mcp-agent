@@ -1,0 +1,13 @@
+name: voice-agent
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - nodejs
+  - pip
+  - pip:
+      - git+https://github.com/openai/whisper.git
+      - TTS
+      - scrapy
+      - python-dotenv
