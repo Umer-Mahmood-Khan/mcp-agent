@@ -32,4 +32,4 @@ npx @modelcontextprotocol/inspector node dist/app.js
 
 ### 📽️ Live Demo
 
-[![Watch the video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](http://img.youtube.com/vi/BIdmqQylMU4/0.jpg)](https://youtu.be/BIdmqQylMU4)
